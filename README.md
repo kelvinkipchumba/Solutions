@@ -1,2 +1,4 @@
 # Solutions
-solutions for the 3 problems provided
+solutions for the problems provided
+
+Each problem is in its own folder
